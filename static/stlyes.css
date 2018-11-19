@@ -1,0 +1,14 @@
+.container{
+    margin-top: 50px;
+    padding: 10px;
+    box-shadow: 5px 10px 8px 10px #888888;
+    border-radius:15px;
+}
+
+.profilePic{
+    height:180px;
+    width:180px;
+    border-radius: 5px;
+
+
+}
